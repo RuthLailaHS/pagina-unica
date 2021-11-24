@@ -1,0 +1,39 @@
+body{
+    margin-top: 70px;
+}
+
+.bg-empresa{
+    background-color: rgba(184, 33, 33, 0.897);
+}
+
+.navbar{
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+}
+
+#carousel-destaques{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.titulo{
+    border-bottom: 5px solid grey;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.carousel-caption h5, .carousel-caption p{
+    color: white;
+    text-shadow: 2px 2px 0px black;
+}
+
+.carousel-caption{
+    background-color: rgba(36, 5, 5, 0.452);
+    width: 70%;
+    margin: 0 auto;
+}
+
+#planos .card-header{
+    background-color: #777;
+    color: white;
+}
